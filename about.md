@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bienvenido al contenido de HACKROCK
+title: About
 permalink: /about
 comments: false  
 image: assets/images/screenshot.jpg
