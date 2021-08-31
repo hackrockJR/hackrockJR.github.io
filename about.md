@@ -1,10 +1,13 @@
 ---
-title: About
 layout: page
+title: Bienvenido al contenido de HACKROCK
+permalink: /about
+comments: false  
+image: assets/images/screenshot.jpg
+imageshadow: true
 ---
 
-Hey! This is the "Leaf" Jekyll theme created by <a rel="me" target="_blank" href="https://twitter.com/_SupunKavinda">Supun Kavinda</a>.
+Este sitio web es editado del tema de Memoirs Jekyll. 
 
-You can find the source code of this theme at <a href="https://github.com/SupunKavinda/jekyll-theme-leaf">Github</a>
+<a target="_blank" href="https://bootstrapstarter.com/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs fo>
 
-(Change this by editing `about.md` file)
